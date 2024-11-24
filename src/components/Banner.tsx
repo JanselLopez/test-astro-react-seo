@@ -4,7 +4,7 @@ const Banner = () => {
   return (
     <div>
         <a href='/remesas'>
-            Comprar remesas para Cuba por Paypal
+            tirandoperrotextoparaversiloencuentra.com
         </a>
     </div>
   )
