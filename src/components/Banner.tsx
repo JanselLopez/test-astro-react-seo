@@ -7,9 +7,6 @@ const Banner = () => {
             Comprar remesas a 100 x 110 a cuba desde cualquier pais
         </a>
         <ul>
-        {
-            Array.from({length: 10000}).map(()=><li>Comprar remesas a 100 x 110 a cuba desde cualquier pais</li>)
-        }
         </ul>
     </div>
   )
